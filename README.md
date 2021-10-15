@@ -3,7 +3,7 @@
 [下载页面](https://github.com/heiwa9/LinkGoYoung/releases)  
 [备用下载](https://gitee.com/zhyaoyu/LinkGoYoung/releases)  
 
-# LinkGoYoung
+# GoYoung
 电信飞young破解路由器登录限制(任意路由器都可使用)  
 适用范围：使用以下客户端的学校  
 ![image](https://user-images.githubusercontent.com/54386147/123896019-600fcc00-d993-11eb-8da0-67e4c77ddb6e.png)  
