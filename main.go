@@ -38,7 +38,7 @@ func main() {
 			filepath = "."
 		}
 	}
-	filepath += "/goyoung"
+	filepath += "/.config/goyoung"
 	_ = os.MkdirAll(filepath, os.ModePerm)
 	filepath += "/user.json"
 
