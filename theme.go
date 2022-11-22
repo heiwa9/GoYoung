@@ -8,12 +8,12 @@ import (
 	"fyne.io/fyne/v2/theme"
 )
 
-//go:embed HarmonyOS_Sans_SC_Regular.ttf
+//go:embed SmileySans-Oblique.ttf
 var font []byte
 
 var myfont = &fyne.StaticResource{
 
-	StaticName: "HarmonyOS_Sans_SC_Regular.ttc",
+	StaticName: "SmileySans-Oblique.ttf",
 
 	StaticContent: font,
 }

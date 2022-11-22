@@ -1,6 +1,6 @@
 //go:generate fyne package -os linux -icon myapp.png
 //go:generate fyne package -os windows -icon myapp.png
-//go:generate fyne package -os android -appID cn.corehub.goyoung -icon myapp.png
+//go:generate fyne package -os android/arm64 -appID cn.corehub.goyoung -icon myapp.png
 package main
 
 import (
